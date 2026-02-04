@@ -1,0 +1,56 @@
+🕒 Time & Date
+1. Speak current time
+2. Speak current date
+
+📰 News & Information
+3. Speak today’s latest global news
+4. Search anything on Wikipedia
+5. Search anything on Google
+6. Search anything on YouTube
+
+🌐 Web & App Control
+7. Open Facebook
+8. Open Google
+9. Open YouTube
+10. Open any website (customizable)
+11. Open Microsoft Word
+12. Open Microsoft PowerPoint
+13. Open Microsoft Excel
+14. Open any installed application (customizable)
+
+🎬YouTube Controls
+15. Play specific video on YouTube
+16. Pause video on YouTube
+17. Start/resume video on YouTube
+
+🖥️ System & Window Management
+18. Lock device
+19. Close any window
+20. Open file explorer
+21. Open settings
+22. Switch browser tab
+23. Open new browser tab
+24. Close browser tab
+25. Open Task Manager
+26. Open Command Prompt
+27. Open Notepad
+28. Open Calculator
+
+💻Power Management
+29. Shut down the PC
+30. Restart the PC
+
+🔊Volumes and Brightness Control
+31. Increase volume
+32. Decrease volume
+33. Mute volume
+34. Increase Brightness
+35. Lower Brightness
+
+📁File & Folder Management
+36. Create folder
+37. Delete folder
+38. Create file
+39. Delete file
+40. Open ugv portal
+41. Open google meet

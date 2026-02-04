@@ -1,0 +1,14 @@
+SpeechRecognition
+pyttsx3
+logging
+os
+webbrowser
+datetime
+wikipedia
+google-generativeai
+python-dotenv
+platform
+pygetwindow
+pyautogui
+transformers
+requests
