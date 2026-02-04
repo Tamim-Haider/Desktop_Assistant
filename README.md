@@ -1,8 +1,5 @@
 # Desktop_Assistant
 A Python-based desktop voice assistant that listens to voice commands and performs automated tasks. It uses speech recognition to understand user input and executes system-level actions, making desktop interaction faster, smarter, and hands-free.
-
-This project is a Python-based desktop assistant that responds to voice commands and performs user-requested tasks automatically. The assistant listens to spoken input, processes it using speech recognition, and executes predefined actions to simplify daily desktop operations.
-
 The goal of this project is to demonstrate how voice interaction, automation, and system control can be combined into a practical desktop application using Python.
 
 🔹 Key Features
